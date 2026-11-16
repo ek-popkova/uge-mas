@@ -1,0 +1,5 @@
+tick 57: (car 0) -> (light 25)  request [green]
+tick 58: (light 25) -> (car 0)  agree [green]
+tick 68: (light 25) -> (car 0)  inform [done]
+tick 106: (car 0) -> (light 25)  request [green]
+tick 107: (light 25) -> (car 0)  agree [green]
